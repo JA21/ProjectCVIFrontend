@@ -1,0 +1,23 @@
+
+
+.formFormSeller{
+    display: grid;
+    grid-template-columns: repeat(2,4fr);
+    gap: 30px;
+}
+
+.itemFormSeller{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.inputFormSeller{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 289px;
+    text-align: left;
+}

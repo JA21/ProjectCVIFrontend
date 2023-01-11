@@ -1,0 +1,21 @@
+p{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 5px;
+}
+
+label{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.containerDataInfoSeller{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerInfoSellerData{
+    display: grid;
+    place-items: center;
+}

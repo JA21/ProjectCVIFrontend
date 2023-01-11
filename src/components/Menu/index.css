@@ -1,0 +1,15 @@
+
+
+.ul-list{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.li-list{
+    margin:15px
+}
+
+.nav-list{
+    text-decoration: none;
+}

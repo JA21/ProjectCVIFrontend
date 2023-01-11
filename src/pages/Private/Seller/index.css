@@ -1,0 +1,39 @@
+
+.containerSeller{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.divTakePhoto{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+  
+}
+.divTakePhoto h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.divButtonSeller{
+    display: flex;
+    justify-content: center;
+}
+
+.divWebcamSeller{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.sytleSeller{
+    border: 1px solid #2d3fad;
+    border-radius: 15px;
+}
+
+.divFomrSeller{
+    width: 100%;
+}
